@@ -15,4 +15,4 @@ ffmpeg.exe -hide_banner -y ^
  -map 0:d? ^
  -c:s copy %OUTDIR%\%~n1.scc
  
-pause
+::pause
