@@ -28,6 +28,28 @@ Or just drag/drop a media file onto the batch file
   00:00:05:13	ced3
   ```
 
+- [Extract to SCC from 436M in MXF File](https://github.com/unsword01/FFMPEG-Caption-Extraction/blob/main/mk_scc_from_436m.bat)\
+  Sample Output:
+  ```
+  Scenarist_SCC V1.0
+  00:00:07:00	9420
+  00:00:07:01	94ae
+  00:00:07:02	9470
+  00:00:07:03	5468
+  00:00:07:04	e573
+  00:00:07:05	e520
+  00:00:07:06	61f2
+  00:00:07:07	e520
+  00:00:07:08	4345
+  00:00:07:09	c120
+  00:00:07:10	b6b0
+  00:00:07:11	3820
+  00:00:07:12	4361
+  00:00:07:13	70f4
+  00:00:07:14	e9ef
+  00:00:07:15	6e73
+  ```
+
 - [Extract to SRT](https://github.com/unsword01/FFMPEG-Caption-Extraction/blob/main/mk_srt_from_ANC_data.bat)\
   Sample Output:
   ```
